@@ -1,6 +1,8 @@
 name: deriv
 description: A coding test for Deriv
 
+publish_to: none
+
 version: 1.0.0+1
 
 environment:
@@ -16,6 +18,9 @@ dependencies:
 
   injectable: ^1.5.3
   get_it: ^7.2.0
+
+  configuration:
+    path: ./lib/configuration
 
 dev_dependencies:
   flutter_test:

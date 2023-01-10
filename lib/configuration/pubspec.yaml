@@ -1,0 +1,53 @@
+name: configuration
+description: The module configuration
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  get: ^4.3.6
+  cupertino_icons: ^1.0.2
+  retrofit: ^3.0.1+1
+  shared_preferences: ^2.0.13
+  intl: ^0.17.0
+  connectivity: ^3.0.6
+  permission_handler: ^9.2.0
+  device_info: ^2.0.2
+  package_info: ^2.0.2
+  flutter_keychain: ^2.1.0
+  logger: ^1.1.0
+
+  socket_io_client: ^2.0.0-beta.4-nullsafety.0
+  dio: ^4.0.0
+
+  # DI
+  injectable: ^1.5.3
+  get_it: ^7.2.0
+
+  rxdart: ^0.27.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  build_runner: ^2.1.7
+  injectable_generator: ^1.5.2
+  dart_code_metrics: ^4.14.0
+flutter:
+  uses-material-design: true
+  module:
+    androidX: true
+    androidPackage: com.tn.configuration
+    iosBundleIdentifier: com.tn.configuration
+flutter_intl:
+  enabled: true
+  class_name: S
+  main_locale: en
+  arb_dir: lib/l10n
+  output_dir: lib/l10n
