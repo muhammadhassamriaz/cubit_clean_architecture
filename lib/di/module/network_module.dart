@@ -11,7 +11,7 @@ abstract class NetworkModule {
   ApiService get apiService {
     return ApiService(
       di<Dio>(),
-      baseUrl: di<BuildConfig>().apiUrl,
+      baseUrl: di<BuildConfig>().webSocketApiUrl,
     );
   }
 }

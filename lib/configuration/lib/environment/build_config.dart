@@ -11,4 +11,6 @@ abstract class BuildConfig {
   String get hostSocketIO;
 
   String get apiUrl => '${host}api';
+
+  String get webSocketApiUrl => '${hostSocketIO}api';
 }
