@@ -1,16 +1,23 @@
-# deriv
+<h1 align="center">Hi 👋, I'm Muhammad Hassam</h1>
+<h3 align="center">A passionate Flutter Developer</h3>
 
-A new Flutter project.
+- 💬 Ask me about **Flutter, Android, Swift**
 
-## Getting Started
+- 📫 How to reach me **hassamriaz99@gmail.com**
 
-This project is a starting point for a Flutter application.
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-hassam-3b6877b5/](https://www.linkedin.com/in/muhammad-hassam-3b6877b5/)
 
-A few resources to get you started if this is your first Flutter project:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/12780804/muhammad-hassam-riaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12780804/muhammad-hassam-riaz" height="30" width="40" /></a>
+<a href="https://instagram.com/callmehassam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="callmehassam" height="30" width="40" /></a>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhassamriaz&show_icons=true&locale=en&layout=compact" alt="muhammadhassamriaz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhassamriaz&show_icons=true&locale=en" alt="muhammadhassamriaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassamriaz&" alt="muhammadhassamriaz" /></p>
